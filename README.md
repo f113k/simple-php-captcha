@@ -1,10 +1,10 @@
-# A simple PHP CAPTCHA script
+# A NICE PHP CAPTCHA script
 
 _Written by Cory LaViska for A Beautiful Site, LLC.  (http://abeautifulsite.net/)_
 
 _Licensed under the MIT license: http://opensource.org/licenses/MIT_
 
-## Demo and Usage
+## TRY AND HOW TO USE
 
 http://labs.abeautifulsite.net/simple-php-captcha/
 
